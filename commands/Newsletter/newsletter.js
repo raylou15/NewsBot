@@ -8,9 +8,6 @@ const {
     ButtonStyle,
     messageLink,
   } = require("discord.js");
-const fetch = require("node-fetch")
-const Parser = require("rss-parser")
-const parser = new Parser();
 const config = require("../../config.json");
 const newsletterData = require("../../schemas/newslettersubs");
 

@@ -6,6 +6,7 @@ const {
 } = require("discord.js");
 
 module.exports = {
+  developer: true,
   data: new SlashCommandBuilder()
     .setName("restart")
     .setDescription("Restarts the bot entirely!")
@@ -19,6 +20,6 @@ module.exports = {
 
     setTimeout(function () {
       process.exit();
-    }, 1000);
+    }, 500);
   },
 };

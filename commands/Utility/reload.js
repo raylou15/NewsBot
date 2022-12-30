@@ -8,6 +8,7 @@ const { loadCommands, loadComponents } = require("../../handlers/handler");
 const { loadEvents } = require("../../handlers/handler");
 
 module.exports = {
+  developer: true,
   data: new SlashCommandBuilder()
     .setName("reload")
     .setDescription("Reloads the bot's files.")

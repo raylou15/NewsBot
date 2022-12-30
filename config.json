@@ -1,10 +1,5 @@
 {
-  "token": "MTA0MzY5MTg0NDE0NTUxMjQ1OA.G92b92.GGmY4HQxJ-WGm3Jg07xdyVz0sEr-xZdvDOQIKY",
+  "token": "MTA1ODIzNDI4MDgzODQ0NzIwNQ.GTQkim.6Dj3GVrimgzAdfHgEg_6knvkvSyTHJ04qZKPV0",
   "DatabaseURL": "mongodb+srv://operationpolitics:Sunstar01181901@politibot-data.bvi8gj8.mongodb.net/?retryWrites=true&w=majority",
-  "propublica_congress_api" : "bOa3BIGWU1XLgXenk35nftpOCVpjcM1ESkWktufp",
-  "currentCongress" : 117,
-  "newscatcherAPI" : "Cw83tzJ0P9ibqqTMhXJPXWDcKhZGoW6tKjeWer74oBc",
-  "proPublicaAPI" : "bOa3BIGWU1XLgXenk35nftpOCVpjcM1ESkWktufp",
-  "funfactAPI" : "K96rlwa3ADK+tE1Laou4cA==O0EQ2ZlR151E8n0r"
-
+  "newscatcherAPI" : "Cw83tzJ0P9ibqqTMhXJPXWDcKhZGoW6tKjeWer74oBc"
 }
